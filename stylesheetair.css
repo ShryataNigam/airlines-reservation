@@ -1,0 +1,171 @@
+#body1{
+	background-color:MidnightBlue;
+background-image:url("sky.jpeg");
+/*background-repeat:repeat-y;*/
+
+}
+h1{
+	border:5px solid #ffcc66;
+	width:100%;
+	text-transform:uppercase;
+	text-align:center;
+
+	
+	padding:20px;
+	background-color:papayaWhip;
+	color:grey;
+}
+section{
+
+	margin-top:10px;
+background-color:hsla(0,75%,0%,0.3);
+    
+	padding:50px;
+	margin:2px;
+	border:2px;
+    float:center;
+	width:50%;
+	right:10px;
+}
+h2
+{
+	text-transform:uppercase;
+	/*text-align:center;*/
+	display:block;
+	/*border:2px solid white;*/
+	
+	padding:10px;
+	/*background-color:papayaWhip;*/
+	color:white;
+}
+H3
+{
+	padding:6px;
+	background-color:steelblue;
+	color:white;
+	font-size:30;
+}
+ul{
+	
+	
+    margin-bottom:20px;
+	padding:20px;
+	background-color:LightSteelBlue;
+    display:block;
+}
+LI{
+	
+	text-align:right;
+	font-size:28;
+display:inline;
+	padding:70px;
+	
+	
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	color:white;
+	background-color:black;
+	}
+	input{
+		padding:10px;
+		border:1px solid black;
+		
+	}
+	#date{
+		
+		/*position:relative;
+		left:200px;*/
+		border:3px solid black;
+		
+	height:5rem;
+	}
+	input[type=text]{
+		position:relative;
+		/*left:170px;*/
+		text-align:center;
+		width:50%;
+		background-color:white;
+		margin-top:30px;
+		border:5px solid grey;
+	
+	}
+	input[type=reset]
+	{
+		color:white;
+		text-align:center;
+		margin:20px;
+		width:30%;
+		padding:10px;
+		text-transform:uppercase;
+		border:5px ;
+	background-color:grey;
+		cursor:pointer;
+	}
+	input[type=reset]:hover{
+		background-color:#66ff66;
+	}
+	input[type=submit]
+	{
+		text-align:center;
+		float:right;
+		text-transform:uppercase;
+		color:white;
+		margin:20px;
+		width:30%;
+		padding:10px;
+		background-color:grey;
+		border:5px ;
+		
+		cursor:pointer;
+	}
+	input[type=submit]:hover{
+		background-color:#ff3333;
+	}
+		#loginhead{
+			border:5px solid orange;
+			
+			text-align:center;
+			
+			
+			word-spacing:10px;
+			letter-spacing:4px;
+		}
+		#i1{
+			float:left;
+			width:40px;
+			height:40px;
+			border-radius:50%;
+			border:grey;
+			cursor:pointer;
+		}
+		#password{
+			margin-left:100px;
+			margin-right:100px
+		}
+		#login{
+			margin-left:100px;
+			margin-right:100px
+		}
+		#username{
+			margin-left:250px;
+			margin-right:100px
+		}
+		span{
+			border:2px solid orange;
+			padding:15px;
+			margin:12px;
+			background-color:#ffcc66;
+			border-radius:30%;
+		}
+		#password{
+			border:5px solid grey;
+			margin-left:252px;
+		}
+		#login{
+			margin-top:100px;
+			margin-right:400px;
+			width:53.5%;
+		}
